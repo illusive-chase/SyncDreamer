@@ -1,5 +1,6 @@
 .idea
 training_examples
 objaverse_examples
-ldm/__pycache__/
-
+**/__pycache__
+ckpt
+output
